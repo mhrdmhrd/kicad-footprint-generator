@@ -345,3 +345,16 @@ WLP-9_1.448x1.468mm_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm:
   paste_margin: 0.000001
   layout_x: 3
   layout_y: 3
+BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm:
+  description: "BGA-200"
+  size_source: "http://www.issi.com/WW/pdf/43-46LQ32256A-AL.pdf"
+  body_size_x: 10.0
+  body_size_y: 14.5
+  pitch_x: 0.80
+  pitch_y: 0.65
+  pad_diameter: 0.27
+  mask_margin: 0.00
+  paste_margin: 0.000000
+  layout_x: 12
+  layout_y: 22
+  row_skips: [[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[[1,13]],[[1,13]],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7],[6,7]]
